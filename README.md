@@ -7,7 +7,7 @@ A `README.md` file is an essential component of any software project. It provide
 
 ### 1. Project Title & Description
 - A clear and concise title.
-- A brief description of what the project does and its key features.
+- A brief description of what the project does and its key feature
 
 ### 2. Installation Instructions
 - Steps to install dependencies and set up the project.
